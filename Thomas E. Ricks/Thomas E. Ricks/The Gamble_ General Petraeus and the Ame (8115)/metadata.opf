@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86b3f3f3-aa9e-414e-87c8-4ad2c85e3057</dc:identifier>
+        <dc:title>The Gamble: General Petraeus and the American Military Adventure in Iraq</dc:title>
+        <dc:creator opf:file-as="Ricks, Thomas E." opf:role="aut">Thomas E. Ricks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-06T03:54:09.914000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt; Thomas E. Rick's news-breaking follow up to the #1 &lt;em&gt;New York Times&lt;/em&gt;&amp;lt; bestseller &lt;em&gt;Fiasco&lt;/em&gt; &lt;/strong&gt;  &lt;/p&gt;&lt;p&gt;Now updated to fully document the inside story of the Iraq war since late 2005, &lt;em&gt;The Gamble&lt;/em&gt; is the definitive account of the insurgency within the U.S. military that led to a radical shift in America's strategy. Based on unprecedented real-time access to the military's entire chain of command, Ricks examines the events that took place as the military was forced to reckon with itself, the surge was launched, and a very different war began. His stunning conclusion, stated in the last line of the book, is that "the events for which the Iraq war will be remembered probably have not yet happened."   &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Thomas E. Ricks&lt;/strong&gt; is &lt;em&gt;The Washington Post&lt;/em&gt;'s special military correspondent and a member of two Pulitzer Prize-winning teams for national reporting. He is the author if &lt;em&gt;Fiasco, Making the Corps,&lt;/em&gt; and &lt;em&gt;A Soldier's Story&lt;/em&gt;. &lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780143116912</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="The American Military Adventure in Iraq" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-19T03:53:12.766000+00:00" name="calibre:timestamp"/>
+        <meta content="Gamble: General Petraeus and the American Military Adventure in Iraq, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

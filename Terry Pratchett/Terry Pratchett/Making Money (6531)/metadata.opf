@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d87ac4ae-d085-48a8-a63d-5b11bfb34810</dc:identifier>
+        <dc:title>Making Money</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-28T03:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The Ankh-Morpork Post Office is running like . . . well, not at all like a government office. The mail is delivered promptly; meetings start and end on time; five out of six letters relegated to the Blind Letter Office ultimately wend their way to the correct addresses. Postmaster General Moist von Lipwig, former arch-swindler and confidence man, has exceeded all expectations—including his own. So it's somewhat disconcerting when Lord Vetinari summons Moist to the palace and asks, "Tell me, Mr. Lipwig, would you like to make some *real* money?"  
+
+ Vetinari isn't talking about wages, of course. He's referring, rather, to the Royal Mint of Ankh-Morpork, a venerable institution that haas run for centuries on the hereditary employment of the Men of the Sheds and their loyal outworkers, who *do* make money in their spare time. Unfortunately, it costs *more* than a penny to *make* a penny, so the whole process seems somewhat counterintuitive.  
+
+ Next door, at the Royal Bank, the Glooper, an "analogy machine," has scientifically established that one never has quite as much money at the end of the week as one thinks one should, and the bank's chairman, one elderly Topsy (née Turvy) Lavish, keeps two loaded crossbows at her desk. Oh, and the chief clerk is probably a vampire.  
+
+ But before Moist has time to fully consider Vetinari's question, fate answers it for him. Now he's not only making money, but enemies too; he's got to spring a prisoner from jail, break into his own bank vault, stop the new manager from licking his face, and, above all, find out where all the gold has gone—otherwise, his life in banking, while very exciting, is going to be really, really short. . . .</dc:description>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Discworld</dc:subject>
+        <meta content="Discworld" name="calibre:series"/>
+        <meta content="36" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T03:53:10.554000+00:00" name="calibre:timestamp"/>
+        <meta content="Making Money" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Discworld&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

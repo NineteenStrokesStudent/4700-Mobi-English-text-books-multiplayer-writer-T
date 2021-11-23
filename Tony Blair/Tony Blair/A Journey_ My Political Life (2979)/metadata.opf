@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2979</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">495744b4-d440-4492-9533-4691c169844c</dc:identifier>
+        <dc:title>A Journey: My Political Life</dc:title>
+        <dc:creator opf:file-as="Blair, Tony" opf:role="aut">Tony Blair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Tony Blair is a politician who defines our times. His emergence as Labour Party leader in 1994 marked a seismic shift in British politics. Within a few short years, he had transformed his party and rallied the country behind him, becoming prime minister in 1997 with the biggest victory in Labour’s history, and bringing to an end eighteen years of Conservative government. He took Labour to a historic three terms in office as Britain’s dominant political figure of the last two decades.*A Journey* is Tony Blair’s firsthand account of his years in office and beyond. Here he describes for the first time his role in shaping our recent history, from the aftermath of Princess Diana’s death to the war on terror. He reveals the leadership decisions that were necessary to reinvent his party, the relationships with colleagues including Gordon Brown, the grueling negotiations for peace in Northern Ireland, the implementation of the biggest reforms to public services in Britain since 1945, and his relationships with leaders on the world stage—Nelson Mandela, Bill Clinton, Vladimir Putin, George W. Bush. He analyzes the belief in ethical intervention that led to his decisions to go to war in Kosovo, Sierra Leone, Afghanistan, and, most controversially of all, in Iraq. *A Journey* is a book about the nature and uses of political power. In frank, unflinching, often wry detail, Tony Blair charts the ups and downs of his career to provide insight into the man as well as the politician and statesman. He explores the challenges of leadership, and the ramifications of standing up, clearly and forcefully, for what one believes in. He also looks ahead, to emerging power relationships and economies, addressing the vital issues and complexities of our global world.Few British prime ministers have shaped the nation’s course as profoundly as Tony Blair, and his achievements and his legacy will be debated for years to come. Here, uniquely, we have his own journey, in his own words.</dc:description>
+        <dc:publisher>ALFRED A KNOPF</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307269836</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-01T19:08:45.717000+00:00" name="calibre:timestamp"/>
+        <meta content="Journey: My Political Life, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

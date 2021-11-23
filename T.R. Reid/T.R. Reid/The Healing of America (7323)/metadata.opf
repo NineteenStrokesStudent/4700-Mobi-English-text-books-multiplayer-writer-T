@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f110508f-e244-4399-8c7d-4462592b2bf6</dc:identifier>
+        <dc:title>The Healing of America</dc:title>
+        <dc:creator opf:file-as="Reid, T.R." opf:role="aut">T.R. Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-20T09:36:48.314000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Bestselling author T. R. Reid guides a whirlwind tour of successful health care systems worldwide, revealing possible paths toward U.S. reform.**
+
+
+
+ In *The Healing of America, New York Times* bestselling author T. R. Reid shows how all the other industrialized democracies have achieved something the United States can't seem to do: provide health care for everybody at a reasonable cost.
+
+
+
+ In his global quest to find a possible prescription, Reid visits wealthy, free market, industrialized democracies like our own-including France, Germany, Japan, the U.K., and Canada-where he finds inspiration in example. Reid shares evidence from doctors, government officials, health care experts, and patients the world over, finding that foreign health care systems give everybody quality care at an affordable cost. And that dreaded monster "socialized medicine" turns out to be a myth. Many developed countries provide universal coverage with private doctors, private hospitals, and private insurance.
+
+
+
+ In addition to long-established systems, Reid also studies countries that have carried out major health care reform. The first question facing these countries-and the United States, for that matter-is an ethical issue: Is health care a human right? Most countries have already answered with a resolute yes, leaving the United States in the murky moral backwater with nations we typically think of as far less just than our own.
+
+
+
+ *The Healing of America* lays bare the moral question at the heart of our troubled system, dissecting the misleading rhetoric surrounding the health care debate. Reid sees problems elsewhere, too: He finds poorly paid doctors in Japan, endless lines in Canada, mistreated patients in Britain, spartan facilities in France. Still, all the other rich countries operate at a lower cost, produce better health statistics, and cover everybody. In the end, *The Healing of America* is a good news book: It finds models around the world that Americans can borrow to guarantee health care for everybody who needs it.</dc:description>
+        <dc:publisher>Penguin Press HC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594202346</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Politics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-10T09:34:32.723000+00:00" name="calibre:timestamp"/>
+        <meta content="Healing of America, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Politics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

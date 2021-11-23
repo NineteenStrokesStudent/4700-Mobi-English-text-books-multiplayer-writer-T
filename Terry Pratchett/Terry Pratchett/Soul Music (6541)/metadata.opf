@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db95abde-b171-4568-ba79-46ef9848f93a</dc:identifier>
+        <dc:title>Soul Music</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-25T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A satirical comedy on the subject of death. It begins when Death decides to take a holiday and turns over the shop to his granddaughter, Susan, with the assistance of Death of Rats, a rat skeleton. Unfortunately, Susan does not have the stomach for such a heartless trade and this threatens the success of the establishment. By the author of The Light Fantastic. This 13th novel set in Discworld tells the story of Death's granddaughter, who inherited the job and grew to enjoy it. Amd of Imp the Bard, who strove to make his fortune in a rock band, and who was so unlucky that all his dreams came true. When her dear old Granddad -- the Grim Reaper himself -- goes missing, Susan takes over the family business. The progeny of Death's adopted daughter and his apprentice, she shows real talent for the trade. That is until a little string in her heart goes "twang." With a head full of dreams and a pocketful of lint, Imp the Bard lands in Ankh-Morpork, yearning to become a rock star. Determined to devote his life to music, the unlucky fellow soon finds that all his dreams are coming true. Well almost. In this finger-snapping, toe-tapping tale of youth, Death, and rocks that roll, Terry Pratchett once again demonstrates the wit and genius that have propelled him to the highest echelons of parody next to Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Discworld</dc:subject>
+        <meta content="Discworld" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T03:53:40.572000+00:00" name="calibre:timestamp"/>
+        <meta content="Soul Music" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Discworld&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

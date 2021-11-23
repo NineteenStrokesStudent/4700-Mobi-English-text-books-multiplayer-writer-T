@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f15abc33-543f-43f2-82ee-13d6cebfba47</dc:identifier>
+        <dc:title>The Wilt Alternative</dc:title>
+        <dc:creator opf:file-as="Sharpe, Tom" opf:role="aut">Tom Sharpe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-09-30T03:00:00+00:00</dc:date>
+        <dc:description>In this, the second of Tom Sharpe's chronicles about Henry Wilt, our hero is no longer the victim of his own uncontrolled fantasies. As Head of a reconstituted Liberal Studies Department he has assumed power without authority at the Fenland College of Arts &amp; Technology and the fantasies he now confronts are those of political bigots and reactionary bureaucrats- in addition to his wife's enthusiasm for every Organic Alternative under the compost heap and the insistence of his quadruplets on looking at every problem with an unflinching lack of sentimentality. Wilt's problems are compounded by nature in the shape of a rose bush, nostalgia, temporary infatuation with a foreign student and the hostility of medical services unwilling to attend to his most urgent needs. But it is only when Wilt becomes the unintentional participant in a terrorist siege that he is forced to find an answer to the problems of power, which have corrupted greater men than he. With a mental ingenuity born of his innate cowardice, Wilt fights for those liberal values which are threatened both by international terrorism and by the sophisticated methods of police anti- terrorist agents. In the confusion that follows, Wilt resumes his dialogue with the unflagging Inspector Flint and is himself subjected to the indignity of a psycho- political profile. Bitingly funny and brilliantly written, THE WILT ALTERNATIVE exposes the farcical anomalies, which have become the social norms of our time.</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780099466499</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Humor</dc:subject>
+        <meta content="Wilt" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-12-07T21:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Wilt Alternative, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

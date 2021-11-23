@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1979</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da302dc4-6a80-40a3-b178-20b3460e78aa</dc:identifier>
+        <dc:title>Shift</dc:title>
+        <dc:creator opf:file-as="Kring, Tim" opf:role="aut">Tim Kring</dc:creator>
+        <dc:creator opf:file-as="Kring, Tim" opf:role="aut">Dale Peck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A new caliber of thriller set at the collision of rs"60s counterculture and the rise of dark forces in world government.Heroescreator Tim Kring injects history with a supernatural, hallucinogenic what-if. Set in the crucible of the 1960s,Shiftis the story of Chandler Forrestal, a man whose life is changed forever when he is unwittingly dragged into a CIA mind-control experiment. After being given a massive dose of LSD, Chandler deshy;velops a frightening array of mental powers. With his one-in-a-billion brain chemistry, Chandlerrs"s heightened perception uncovers a plot to assassishy;nate President Kennedy. Propelled to prevent the conspiracy of assassishy;nation and anarchy, Chandler becomes a target for deadly forces in and out of the government and is pursued across a simmering landscape peopled by rogue CIA agents, Cuban killers, Mafia madmen, and ex-Nazi scientistshellip;all the while haunted by a beautiful woman with her own scandalous past to purge, her own score to settle. Chased across America, will Chandler be able to harness his "shift" and rewrite history? Combining the nonstop style of Ludlum with the sinister, tangled conspiracies of DeLillo and Dick, and featuring cameos from Lee Harvey Oswald to Timothy Leary to J. Edgar Hoover,Shiftis a thriller guaranteed to be equal parts heart-stopping and thought-provoking. From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307453457</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="Gate of Orpheus Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-14T20:12:50.425000+00:00" name="calibre:timestamp"/>
+        <meta content="Shift" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

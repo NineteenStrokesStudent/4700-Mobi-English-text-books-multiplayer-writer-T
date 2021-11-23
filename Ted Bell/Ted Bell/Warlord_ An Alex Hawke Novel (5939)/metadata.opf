@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64284db9-f47c-4ef2-99d3-763dc947c52e</dc:identifier>
+        <dc:title>Warlord: An Alex Hawke Novel</dc:title>
+        <dc:creator opf:file-as="Bell, Ted" opf:role="aut">Ted Bell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T19:32:56.047000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Counterspy Alexander Hawke races to stop a madman hell-bent on murdering the British royal family in this latest spellbinding action thriller in Ted Bell’s New York Times bestselling series.  
+
+ Alex Hawke has all but given up on life. The British-American MI6 counterterrorism operative lost the woman he loved almost a year ago and has sought refuge at the bottom of a rum bottle ever since. But late one night at his home on Bermuda, he receives a wake-up call . . . literally.  
+
+ His Royal Highness Prince Charles, an old friend, desperately needs his help. The prince has discovered a not-so-subtle threat directed toward the British royal family. What’s more, the evidence reveals an ominous connection to Charles’s god-father, Lord Mountbatten—the beloved family patriarch assassinated by an ingeniously designed bomb thirty years before. A shadowy figure from the past has the British crown in his sights, and has proven once before that his warnings are not to be taken lightly. Several clues point to IRA involvement, but the authorities have little to go on and answers are scarce. This is just the call to duty Hawke needs to get back into action—if the madman doesn’t strike first.  
+
+ Alex Hawke, one of the most dashing and compelling action heroes in all of thriller fiction, faces his most formidable challenge yet in *Warlord*, a gripping, white-knuckled adventure told with verve and swashbuckling panache by a master of the art.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061859298</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Alexander Hawke" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-14T20:50:25.730000+00:00" name="calibre:timestamp"/>
+        <meta content="Warlord: An Alex Hawke Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

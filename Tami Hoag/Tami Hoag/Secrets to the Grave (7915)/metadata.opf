@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7915</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0eb3cb9-1a34-4778-bd21-f01940a48843</dc:identifier>
+        <dc:title>Secrets to the Grave</dc:title>
+        <dc:creator opf:file-as="Hoag, Tami" opf:role="aut">Tami Hoag</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-27T10:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+#1 New York Times bestselling author Tami Hoag returns with her second thriller in the Deeper than the Dead microseries, exploring the early days of forensic investigation, the characteristics of innocence-and the nature of evil.   Marissa Fordham had a past full of secrets, a present full of lies. Everyone knew of her, but no one knew her.  When Marissa is found brutally murdered, with her young daughter, Haley, resting her head on her mother's bloody breast, she sends the idyllic California town of Oak Knoll into a tailspin. Already on edge with the upcoming trial of the See- No-Evil killer, residents are shocked by reports of the crime scene, which might not have been discovered for days had it not been for a chilling 911 call: a small child's voice saying, "My daddy hurt my mommy."  Sheriff's detective Tony Mendez faces a puzzle with nothing but pieces that won't fit. To assist with his witness, Haley, he calls teacher-turned-child advocate Anne Leone. Anne's life is hectic enough-she's a newlywed and a part- time student in child psychology, and she's the star witness in the See-No-Evil trial. But one look at Haley, alone and terrified, and Anne's heart is stolen.  As Tony and Anne begin to peel back the layers of Marissa Fordham's life, they find a clue fragment here, another there. And just when it seems Marissa has taken her secrets to the grave, they uncover a fact that puts Anne and Haley directly in the sights of a killer: Marissa Fordham never existed.</dc:description>
+        <dc:publisher>DUTTON (2010年12月28日)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780525951926</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-10T04:38:26.639000+00:00" name="calibre:timestamp"/>
+        <meta content="Secrets to the Grave" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

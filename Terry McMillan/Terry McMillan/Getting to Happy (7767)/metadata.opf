@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ffced84-1958-4ad0-8881-16135c82d3eb</dc:identifier>
+        <dc:title>Getting to Happy</dc:title>
+        <dc:creator opf:file-as="McMillan, Terry" opf:role="aut">Terry McMillan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-07T06:26:57.167000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Fifteen years after Waiting to Exhale, McMillan brings back Savannah, Gloria, Bernadine, and Robin--now in their 50s--for a disappointing and uninspired outing. As the story opens, Gloria is very happy, Savannah believes she might be happy, Bernadine is fighting addiction and losing ground, and single mother Robin is trying to resign herself to being alone while things at her job begin to unravel. Within the first few chapters, Gloria and Savannah are struck by disaster, and things go rapidly downhill from there for everyone. Most of the misery has to do with men who lie, steal, cheat, or disappear, or with adult children who face similar problems. Unfortunately, the beloved cast isn't given a story worthy of them; instead, this reunion reads like a catalogue of personal catastrophes annotated with very long, rambling discussions, with more emphasis on simple drama than character. &lt;br /&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;From&lt;/h3&gt;&lt;p&gt;For McMillan fans (and they are legion, given the immense popularity of her novels and film adaptations), the publication of &lt;em&gt;Getting to Happy&lt;/em&gt; will be welcome news. The novel is full of the juicy romantic entanglements, family dysfunction, and high drama that readers have come to anticipate. The novel is not without its shortcomings; most critics noted the occasional clunky writing and predictable plot line. After all, McMillan's characters are the same as before--older and heavier, perhaps, but not necessarily happier or wiser. Still, the novel is entertaining, escapist fare, and "_Getting to Happy_ is pretty much required reading for anyone who cared about &lt;em&gt;Waiting to Exhale&lt;/em&gt;" (_Miami Herald_). &lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670022045</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="Waiting to Exhale" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-27T06:15:57.574000+00:00" name="calibre:timestamp"/>
+        <meta content="Getting to Happy" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

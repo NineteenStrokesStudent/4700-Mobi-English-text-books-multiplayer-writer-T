@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">831</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5520f247-f28c-427c-ba03-fe57f0cf4a2c</dc:identifier>
+        <dc:title>The Pillars of Creation</dc:title>
+        <dc:creator opf:file-as="Goodkind, Terry" opf:role="aut">Terry Goodkind</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-31T10:21:38.381000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Sequel to the New York Times bestselling Faith of the Fallen New York Times bestselling author Terry Goodkind has created his most lavish adventure yet. Tormented her entire life by inhuman voices, a young woman named Lauren seeks to end her intolerable agony. She at last discovers a way to silence the voices. For everyone else, the torment is about to begin. With winter descending and the paralyzing dread of an army of annihilation occupying their homeland, Richard Rahl and his wife Kahlan must venture deep into a strange and desolate land. Their quest turns to terror when they find themselves the helpless prey of a tireless hunter. Meanwhile, Lauren finds herself drawn into the center of a struggle for conquest and revenge. Worse yet, she finds her will seized by forces more abhorrent than anything she ever envisioned. Only then does she come to realize that the voices were real. Staggered by loss and increasingly isolated, Richard and Kahlan must stop the relentless, unearthly threat which has come out of the darkest night of the human soul. To do so, Richard will be called upon to face the demons stalking among the Pillars of Creation. Discover breathtaking adventure and true nobility of spirit. Find out why millions of readers the world over have elevated Terry Goodkind to the ranks of legend.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765340740</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Sword of Truth" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-12-23T21:17:14+00:00" name="calibre:timestamp"/>
+        <meta content="Pillars of Creation, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

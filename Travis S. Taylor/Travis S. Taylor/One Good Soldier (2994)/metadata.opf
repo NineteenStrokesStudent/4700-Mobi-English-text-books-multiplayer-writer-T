@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2994</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">086c12a1-f072-4495-8980-11559d2078eb</dc:identifier>
+        <dc:title>One Good Soldier</dc:title>
+        <dc:creator opf:file-as="Taylor, Travis S." opf:role="aut">Travis S. Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-17T07:05:59+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*One Good Soldier* is the third book in the rapid-fire hard science military SF series of *One Day on Mars* and *The Tau* *Ceti Agenda*.  In another *24*-like narrative set six years after the events in *The Tau Ceti Agenda*,* *this exciting action story unfolds in a single critical day in the history of the United States of the Sol System, the extra-solar colonies, the Separatist Revolutionaries of the Tau Ceti system, and all of mankind.   
+
+            As another of Earth’s colonies, Ross 128, secedes from the union, the President of the United States, former marine major Alexander Moore, takes swift action to prevent a second American Civil War, this time on an interstellar scale. He sends the flagship of the U.S. Naval fleet through the Quauntum Membrane Teleporter based in the Oort Cloud to the seceding colony.  But the Tau Ceti Separatists have stationed their own teleporter there and the flagship will be met with heavy resistance from the Separatist Navy. 
+
+            And, unknown to the president and first lady, their eighteen year old military school cadet daughter has been kidnapped and whisked away to the Separatist leader's house on Tau Ceti. 
+
+            Only the heroics and sacrifices of ***one good soidier*** after another can save the flagship, the Union, and the first daughter in an all-out winner-take-all showdown that reaches its final climax with frenzied hand-to-hand combat in the Oval Office itself. 
+
+  
+
+*Praise for Travis S. Taylor:* 
+
+“[*Warp Speed*] reads like Doc Smith writing Robert Ludlum. . . .You won't want to put it down.  FLUBELLS AWAY!” —**John Ringo** 
+
+  
+
+“In the tradition of Golden Age SF . . . [*The Quantum Connection*, sequel to *Warp Speed*] explodes with inventive action . . . dazzling . . . cutting-edge scientific possibilities. . . .” —*Publishers Weekly*</dc:description>
+        <dc:publisher>Baen</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439133163</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="One Day On Mars" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-23T06:28:41.297000+00:00" name="calibre:timestamp"/>
+        <meta content="One Good Soldier" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4da52fc5-a7e2-438c-8945-79e14eda2e6b</dc:identifier>
+        <dc:title>Girl Missing</dc:title>
+        <dc:creator opf:file-as="Gerritsen, Tess" opf:role="aut">Tess Gerritsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-20T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+THE FIRST BODY IS A MYSTERY.She's young. She's beautiful. And her corpse, laid out in the office of Boston medical examiner Kat Novak, betrays no secrets - except for a notebook clutched in one stiff hand, seven numbers scrawled inside. THE NEXT BODY IS A WARNING.When a second victim is discovered, Kat begins to fear that a serial killer is stalking the city streets: a shadowy madman without mercy or apparent motive. The police are sceptical. The mayor won't listen. And Kat's chief suspect is one of the city's most prominent citizens.THE FINAL BODY . . . MIGHT BE HERS.With the death toll rising, Kat races to expose a deadly conspiracy and the brutal killer at its heart - a killer who will stalk her from the dangerous streets of the inner city to the corridors of power. Because he's closer than she ever dreamt. And every move she makes could be her very last.</dc:description>
+        <dc:publisher>BANTAM UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780593062753</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-10-27T08:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Girl Missing" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

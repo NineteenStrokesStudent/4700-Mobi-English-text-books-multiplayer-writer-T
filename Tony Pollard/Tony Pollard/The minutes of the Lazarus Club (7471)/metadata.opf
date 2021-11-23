@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c51a338-f08b-4af8-a770-dc2b053b7262</dc:identifier>
+        <dc:title>The minutes of the Lazarus Club</dc:title>
+        <dc:creator opf:file-as="Pollard, Tony" opf:role="aut">Tony Pollard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-15T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+'Some of our ideas are not of the most orthodox nature. They would be frowned upon in anbsp;more traditional scientific environment, perhaps even laughed at.' London, 1857 - the Lazarus Club. Some of the finest, most unconventional minds in Victorian Britain - including Charles Darwin, Joseph Bazalgette, Charles Babage and Isambard Kingdom Brunel - are members. Meetings take place behind closed doors: their discussions are revolutionary and their conclusions are sometimes forbidden... Knowing nothing of this secret society, Dr George Phillips, a young and ambitious surgeon, is intrigued to encounter Brunel over a well-used cadaver in the gory pit of his dissection theatre. It soon becomes apparent that the great engineer has mysterious plans for the good doctor. And so Phillips becomes emboiled in the enigmatic machinations of the Lazarus Club, and in its midst encounters a dark conspiracy. Not only is his own life in jeopardy, but as the first mutilated body is washed up on the banks of the Thames so the very foundations of Victorian society are set to be rocked to their core.</dc:description>
+        <dc:publisher>Michael Joseph</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780718154035</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-16T21:47:10.792000+00:00" name="calibre:timestamp"/>
+        <meta content="minutes of the Lazarus Club, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

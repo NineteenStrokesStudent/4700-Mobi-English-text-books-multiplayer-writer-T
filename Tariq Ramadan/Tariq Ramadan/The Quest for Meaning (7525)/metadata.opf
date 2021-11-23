@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6eb2dbb6-8fa9-4889-867e-949f10b6b03b</dc:identifier>
+        <dc:title>The Quest for Meaning</dc:title>
+        <dc:creator opf:file-as="Ramadan, Tariq" opf:role="aut">Tariq Ramadan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-05T07:00:00+00:00</dc:date>
+        <dc:description>In "The Quest for Meaning", Tariq Ramadan, philosopher and Islamic scholar, invites the reader to join him on a journey to the deep ocean of religious, secular, and indigenous spiritual traditions to explore the most pressing contemporary issues. Along the way, Ramadan interrogates the concepts that frame current debates including: faith and reason, emotions and spirituality, tradition and modernity, freedom, equality, universality, and civilization. He acknowledges the greatest flashpoints and attempts to bridge divergent paths to a common ground between these religious and intellectual traditions. He calls urgently for a deep and meaningful dialogue that leads us to go beyond tolerant co-existence to mutual respect and enrichment. Written in a both direct and meditative style this is an important, timely and intelligent book that aims to direct and shape debate around the most important questions of our time.</dc:description>
+        <dc:publisher>Allen Lane</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781846141522</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-23T21:56:53.090000+00:00" name="calibre:timestamp"/>
+        <meta content="Quest for Meaning, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Philosophy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

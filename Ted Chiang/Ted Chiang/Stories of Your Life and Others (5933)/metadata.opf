@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06435bc3-3bb0-46b4-bd73-6817e24fabf7</dc:identifier>
+        <dc:title>Stories of Your Life and Others</dc:title>
+        <dc:creator opf:file-as="Chiang, Ted" opf:role="aut">Ted Chiang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Ted Chiang's first published story, ""Tower of Babylon,"" won the Nebula Award in 1990. Subsequent stories have won the Asimov's SF Magazine reader poll, a second Nebula Award, the Theodore Sturgeon Memorial Award, and the Sidewise Award for alternate history. He won the John W. Campbell Award for Best New Writer in 1992. Story for story, he is the most honored young writer in modern SF. Now, collected here for the first time are all seven of this extraordinary writer's stories so far-plus an eighth story written especially for this volume. What if men built a tower from Earth to Heaven-and broke through to Heaven's other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if there were a science of naming things that calls life into being from inanimate matter? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life . . . and others. The widely celebrated SF author Ted Chiang lives near Seattle, Washington. Ted Chiang's first published short story, "Tower of Babylon," won the Nebula Award in 1990. Subsequent stories have won the Asimov's SF Magazine reader poll, a second Nebula Award, the Theodore Sturgeon Memorial Award, and the Sidewise Award for alternate history. Chiang also won the John W. Campbell Award for Best New Writer in 1992. Story for story, he is the most honored young writer in modern SF. Now--collected here for the first time--are all seven of his extraordinary stories thus far, plus an eighth yarn written especially for this volume. What if men built a tower from Earth to Heaven--and broke through to Heaven's other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous and engrossing questions posed by the stories of Ted Chiang. These are "Stories of Your Life and Others." "'Hell Is the Absence of God' is perhaps one of the best fantasy novellas ever written . . . [It] alone would justify the rest of the material in [this book]. But the collection does not need this kind of support. Summarizing these stories does not do justice to Chiang's talent. Seemingly ordinary ideas are pursued ruthlessly, their tendons flayed, their bones exposed. Chiang derides lazy thinking, weasels it out of its hiding place, and leaves it cowering."--"The Washington Post" "The stakes are high in all of Chiang's stories, for their social and existential implications concern him as much as their construction . . . He puts the science back in SF--brilliantly."--"Booklist" (starred review) "Essential. You won't know SF if you don't read Ted Chiang."--Greg Bear "Chiang is one of the rare contemporary SF writers who has made his considerable reputation without producing one novel. His stories brim with originality and seduce with their complexity."--Ellen Datlow "One of our very best writers . . . Chiang will astonish you."--James Patrick Kelly "The first must-read SF book of the year."--"Publishers Weekly" (starred review)
+
+
+(This version adds The Lifecycle of Software Objects along with story notes. The EPUB code has also been cleaned up to bring the
+file size down from 1.09 MB to 775 KB. Version 2 corrected 2 small format errors found in The Merchant and the Alchemist's Gate)
+
+Stories of Your Life and Others by Ted Chiang in EPUB format containing the following stories:
+
+
+Tower of Babylon, 1990; first appeared in Omni.
+
+Understand, 1991; first appeared in Asimov's.
+
+Division by Zero, 1991; first appeared in Full Spectrum 3.
+
+Story of Your Life, 1998; first appeared in Starlight 2.
+
+Seventy-Two Letters, 2000; first appeared in Vanishing Acts.
+
+The Evolution of Human Science, 2000; first appeared in Nature under the title Catching Crumbs from the Table.
+
+Hell Is the Absence of God, 2001; first appeared in Starlight 3.
+
+Liking What You See: A Documentary, 2002.
+
+
+The following stories have also been added to this ebook:
+
+
+What's Expected of Us, 2006; first appeared in Nature.
+
+The Merchant and the Alchemist's Gate, 2007; appeared in Fantasy &amp; Science Fiction.
+
+Exhalation, 2008; first appeared in Eclipse 2: New Science Fiction and Fantasy.
+
+The Lifecycle of Software Objects, 2010.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765304193</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-15T11:46:04.578000+00:00" name="calibre:timestamp"/>
+        <meta content="Stories of Your Life and Others" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

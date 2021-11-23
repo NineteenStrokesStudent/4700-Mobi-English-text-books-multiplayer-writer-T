@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">047accf8-117f-40ef-a78f-2cb30436224c</dc:identifier>
+        <dc:title>Ilse Witch</dc:title>
+        <dc:creator opf:file-as="Brooks, Terry" opf:role="aut">Terry Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-06T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+It has been 130 years since the events of the Heritage of Shannara series, and the Free-born and the Federation are still at war. The story follows a quest organized by Walker Boh, the last surviving Druid. Thirty years ago, the Elven prince Kael Elessedil led an expedition in search of a legendary magic which was said to be the most ancient and powerful in the world.
+
+Thirty years later, Kael is found floating in the sea of the Blue Divide; a map is found with him, covered with mysterious symbols. Walker is the only man who can read them.
+
+But there is another: the Ilse Witch, a beautiful but twisted young woman who is as practiced in magic as Walker himself. She will stop at nothing to possess the map and the magic it leads to. To stop her, Walker must find the magic first.
+
+Thus begins the voyage of the sleek, swift airship, the Jerle Shannara. The company chosen by Walker must fly into the face of unknown terrors while the Ilse Witch and her dark allies pursue.</dc:description>
+        <dc:publisher>Del Rey</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0345444817</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Shannara Universe: Chronological" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-01-06T22:35:57+00:00" name="calibre:timestamp"/>
+        <meta content="Ilse Witch" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

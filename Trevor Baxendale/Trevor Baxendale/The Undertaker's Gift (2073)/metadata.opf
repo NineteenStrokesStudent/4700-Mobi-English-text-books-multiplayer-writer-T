@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5978a8b-e7b9-4bad-b2c9-4f790bd64955</dc:identifier>
+        <dc:title>The Undertaker's Gift</dc:title>
+        <dc:creator opf:file-as="Baxendale, Trevor" opf:role="aut">Trevor Baxendale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The Hokrala Corp lawyers are back. They're suing planet Earth for mishandling the twenty-first century, and they won't tolerate any efforts to repel them. An assassin has been sent to remove Captain Jack Harkness. It's been a busy week in Cardiff. The Hub's latest guest is a translucent, amber jelly carrying a lethal electrical charge. Record numbers of aliens have been coming through the Rift, and Torchwood could do without any more problems. But there are reports of an extraordinary funeral cortege in the night-time city, with mysterious pallbearers guarding a rotting cadaver that simply doesn't want to be buried. Torchwood should be ready for anything u but with Jack the target of an invisible killer, Gwen trapped in a forgotten crypt and Ianto Jones falling desperately ill, could a world of suffering be the Undertaker's gift to planet Earth? Featuring Captain Jack Harkness as played by John Barrowman, with Gwen Cooper and Ianto Jones as played by Eve Myles and Gareth David-Lloyd, in the hit series.</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781846077821</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Torchwood" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-01T01:15:40.108000+00:00" name="calibre:timestamp"/>
+        <meta content="Undertaker's Gift, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

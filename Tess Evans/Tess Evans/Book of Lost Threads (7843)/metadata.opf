@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">320fa097-4612-4598-bfbe-2d450aac0083</dc:identifier>
+        <dc:title>Book of Lost Threads</dc:title>
+        <dc:creator opf:file-as="Evans, Tess" opf:role="aut">Tess Evans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-01T10:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In the small town of Opportunity, four mismatched people discover the unexpected power of kindness. Tender, funny and memorable, Book of Lost Threads is a story about love and loss, parents and children, hope, faith and the value of simple kindness. Moss has run away from Melbourne to Opportunity on the trail of a man she knows only by name. But her arrival sets in train events that disturb the long-held secrets of three of the town' s inhabitants: Finn, a brilliant mathematician, who has become a recluse; Lily Pargetter, eighty-three-year-old knitter of tea cosies; and Sandy, the town buffoon, who dreams of a Great Galah. It is only as Moss, Finn, Lily and Sandy develop unlikely friendships that they find a way to lay their sorrows to rest and knit together the threads that will restore them to life.</dc:description>
+        <dc:publisher>Allen &amp; Unwin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781742372334</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-29T01:32:46.764000+00:00" name="calibre:timestamp"/>
+        <meta content="Book of Lost Threads" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

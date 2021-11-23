@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b2f8855-6b72-4d3b-8296-4c1e982d4dbe</dc:identifier>
+        <dc:title>Strata</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-05T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;The Company builds planets. &lt;/p&gt;&lt;p&gt;Kin Arad is a high-ranking official of the Company. After twenty-one decades of living, and with the help of memory surgery, she is at the top of her profession. Discovering two of her employees have placed a fossilized plesiosaur in the wrong stratum, not to mention the fact it is holding a placard which reads 'End Nuclear Testing Now', doesn't dismay the woman who built a mountain range in the shape of her initials during her own high-spirited youth. &lt;/p&gt;&lt;p&gt;But then come a discovery of something which did intrigue Kin Arad. A flat earth was something new... &lt;/p&gt;&lt;h3&gt;From the Publisher&lt;/h3&gt;&lt;p&gt;First published in 1981, &lt;em&gt;Strata&lt;/em&gt; is an early exploration of the idea that was to become the best-selling &lt;em&gt;Discworld&lt;/em&gt; series. &lt;/p&gt;</dc:description>
+        <dc:publisher>Corgi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780552133258</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Discworld</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-19T03:23:14.734000+00:00" name="calibre:timestamp"/>
+        <meta content="Strata" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Discworld&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

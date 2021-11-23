@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">826aa4ac-bb6a-4358-81db-7fbf26d1ecad</dc:identifier>
+        <dc:title>The Vaults</dc:title>
+        <dc:creator opf:file-as="Ball, Toby" opf:role="aut">Toby Ball</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T06:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In a dystopian 1930s America, a chilling series of events leads three men down a path to uncover their city's darkest secret.At the height of the most corrupt administration in the City’s history, a mysterious duplicate file is discovered deep within the Vaults---a cavernous hall containing all of the municipal criminal justice records of the last seventy years. From here, the story follows: Arthur Puskis, the Vault’s sole, hermit-like archivist with an almost mystical faith in a system to which he has devoted his life; Frank Frings, a high-profile investigative journalist with a self-medicating reefer habit; and Ethan Poole, a socialist private eye with a penchant for blackmail. All three men will undertake their own investigations into the dark past and uncertain future of the City---calling into question whether their most basic beliefs can be maintained in a climate of overwhelming corruption and conspiracy Toby Ball's imagined city is a fever dream in which virtue barely survives the corruption all around it." -Justin Evans, author of A GOOD AND HAPPY CHILD "If George Orwell and Dashiell Hammett have ever decided to collaborate on a book, they might have come up with something like The Vaults.  A wonderful debut from a writer to watch." -Michael Harvey, The Chicago Way"With a Kafka-esque view filtered through a Jasper Fforde lens, Toby Ball gives us the gray terror of Any City in Any Unnamed Year that could reach from 1930 to today, and reminds us, once again, of the important of vigilance and the danger of Big Boss rule. Masterfully created."-Louise Ure, Shamus Award-winning author of Liars “Ball has conjured a fully-evoked world in his nameless city that, for all its 1930s trappings, retains that surreal and timeless atmosphere of Gotham, BRAVE NEW WORLD, and 1984. A provocative and dazzling debut.”  - Blake Crouch, author of Abandon</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312580735</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-19T15:53:49.038000+00:00" name="calibre:timestamp"/>
+        <meta content="Vaults, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a940ce05-7c67-48ca-bec9-79c569b378bd</dc:identifier>
+        <dc:title>The Amazing Maurice and His Educated Rodents</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-30T03:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**  Winner of the 2001 Carnegie Medal  ** 
+
+ 
+
+*One rat, popping up here and there, squeaking loudly, and taking a bath in the cream, could be a plague all by himself. After a few days of this, it was amazing how glad people were to see the kid with his magical rat pipe. And they were amazing when the rats followed hint out of town.
+
+They'd have been really amazed if they'd ever found out that the rats and the piper met up with a cat somewhere outside of town and solemnly counted out the money.*
+
+The Amazing Maurice runs the perfect Pied Piper scam. This streetwise alley cat knows the value of cold, hard cash and can talk his way into and out of anything. But when Maurice and his cohorts decide to con the town of Bad Blinitz, it will take more than fast talking to survive the danger that awaits. For this is a town where food is scarce and rats are hated, where cellars are lined with deadly traps, and where a terrifying evil lurks beneath the hunger-stricken streets....
+
+Set in Terry Pratchett's widely popular Discworld, this masterfully crafted, gripping read is both compelling and funny. When one of the world's most acclaimed fantasy writers turns a classic fairy tale on its head, no one will ever look at the Pied Piper -- or rats -- the same way again!</dc:description>
+        <dc:publisher>HarperTrophy</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Discworld</dc:subject>
+        <meta content="Discworld" name="calibre:series"/>
+        <meta content="28" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T03:54:03.805000+00:00" name="calibre:timestamp"/>
+        <meta content="Amazing Maurice and His Educated Rodents, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Discworld&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9bb6dac-0cb4-4e97-9c03-94ec7c0436ec</dc:identifier>
+        <dc:title>The 4-Hour Workweek, Expanded and Updated: Escape 9-5, Live Anywhere, and Join the New Rich</dc:title>
+        <dc:creator opf:file-as="Ferriss, Timothy" opf:role="aut">Timothy Ferriss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-18T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+More than 100 pages of new, cutting-edge content. Forget the old concept of retirement and the rest of the deferred-life plan–there is no need to wait and every reason not to, especially in unpredictable economic times. Whether your dream is escaping the rat race, experiencing high-end world travel, earning a monthly five-figure income with zero management, or just living more and working less, The 4-Hour Workweek is the blueprint. This step-by-step guide to luxury lifestyle design teaches: •How Tim went from $40,000 per year and 80 hours per week to $40,000 per month and 4 hours per week•How to outsource your life to overseas virtual assistants for $5 per hour and do whatever you want•How blue-chip escape artists travel the world without quitting their jobs•How to eliminate 50% of your work in 48 hours using the principles of a forgotten Italian economist•How to trade a long-haul career for short work bursts and frequent “mini-retirements”The new expanded edition of Tim Ferriss’ The 4-Hour Workweek includes:•More than 50 practical tips and case studies from readers (including families) who have doubled income, overcome common sticking points, and reinvented themselves using the original book as a starting point•Real-world templates you can copy for eliminating e-mail, negotiating with bosses and clients, or getting a private chef for less than $8 a meal•How Lifestyle Design principles can be suited to unpredictable economic times•The latest tools and tricks, as well as high-tech shortcuts, for living like a diplomat or millionaire without being either</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307465351</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-10T20:32:26.536000+00:00" name="calibre:timestamp"/>
+        <meta content="4-Hour Workweek, Expanded and Updated: Escape 9-5, Live Anywhere, and Join the New Rich, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Self-Help&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

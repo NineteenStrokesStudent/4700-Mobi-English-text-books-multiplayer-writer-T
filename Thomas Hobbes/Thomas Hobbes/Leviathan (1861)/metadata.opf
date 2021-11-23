@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4ae365a-8e7c-42e0-9165-dabd6b298f62</dc:identifier>
+        <dc:title>Leviathan</dc:title>
+        <dc:creator opf:file-as="Hobbes, Thomas" opf:role="aut">Thomas Hobbes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1950-08-15T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Leviathan, or The Matter, Forme and Power of a Common Wealth Ecclesiasticall and Civil, commonly called Leviathan is a book written in 1651 by Thomas Hobbes. It is titled after the biblical Leviathan. The book concerns the structure of society (as represented figuratively by the frontispiece, showing the state giant made up of individuals), as is evidenced by the full title.
+
+
+
+In the book, Thomas Hobbes argues for a social contract and rule by an absolute sovereign. Influenced by the English Civil War, Hobbes wrote that chaos or civil war - situations identified with a state of nature and the famous motto Bellum omnium contra omnes ("the war of all against all") - could only be averted by strong central government. He thus denied any right of rebellion toward the social contract, which would be later added by John Locke and conserved by Jean-Jacques Rousseau. However, Hobbes did discuss the possible dissolution of the State. As the social contract was made to institute a state that would provide for the "peace and defence" of the people, the contract would become void if the government no longer protected its citizens. In such a case, man would automatically return to a state of nature until the creation of a new social contract.
+
+
+
+In Leviathan, Hobbes set out his doctrine of the foundation of societies and legitimate governments. This became one of the first scholarly works on Social contract theory. In the natural condition of mankind, what other philosophers refer to as the state of nature, while some men may be stronger or more intelligent than others, none is so strong and smart as to be beyond a fear of violent death. When threatened with death, man in his natural state cannot help but defend himself in any way possible. Self-defense against violent death is Hobbes' highest human necessity, and rights are borne of necessity. In</dc:description>
+        <dc:publisher>Forgotten Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781605069777</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-08T22:06:21.438000+00:00" name="calibre:timestamp"/>
+        <meta content="Leviathan" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

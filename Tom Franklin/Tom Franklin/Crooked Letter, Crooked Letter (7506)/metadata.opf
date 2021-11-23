@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77a04b76-9b9f-4603-a622-6ac93b680a83</dc:identifier>
+        <dc:title>Crooked Letter, Crooked Letter</dc:title>
+        <dc:creator opf:file-as="Franklin, Tom" opf:role="aut">Tom Franklin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-04T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Tom Franklin's extraordinary talent has been hailed by the leading lights of contemporary literature—Philip Roth, Richard Ford, Lee Smith, and Dennis Lehane. Reviewers have called his fiction "ingenious" (USA Today) and "compulsively readable" (Memphis Commercial Appeal). His narrative power and flair for character-ization have been compared to the likes of Harper Lee, Flannery O'Connor, Elmore Leonard, and Cormac McCarthy.   Now the Edgar Award-winning author returns with his most accomplished and resonant novel so far—an atmospheric drama set in rural Mississippi. In the late 1970s, Larry Ott and Silas "32" Jones were boyhood pals. Their worlds were as different as night and day: Larry, the child of lower-middle-class white parents, and Silas, the son of a poor, single black mother. Yet for a few months the boys stepped outside of their circumstances and shared a special bond. But then tragedy struck: Larry took a girl on a date to a drive-in movie, and she was never heard from again. She was never found and Larry never confessed, but all eyes rested on him as the culprit. The incident shook the county—and perhaps Silas most of all. His friendship with Larry was broken, and then Silas left town.   More than twenty years have passed. Larry, a mechanic, lives a solitary existence, never able to rise above the whispers of suspicion. Silas has returned as a constable. He and Larry have no reason to cross paths until another girl disappears and Larry is blamed again. And now the two men who once called each other friend are forced to confront the past they've buried and ignored for decades.</dc:description>
+        <dc:publisher>WILLIAM MORROW &amp; CO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060594664</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-21T06:24:58.352000+00:00" name="calibre:timestamp"/>
+        <meta content="Crooked Letter, Crooked Letter" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

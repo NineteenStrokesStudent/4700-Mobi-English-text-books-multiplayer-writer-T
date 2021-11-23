@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">daf4b205-bee9-432d-92e0-049206e329d1</dc:identifier>
+        <dc:title>The Quantum Connection</dc:title>
+        <dc:creator opf:file-as="Taylor, Travis S." opf:role="aut">Travis S. Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-05T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Steven Montana, computer whiz and hacker extraordinaire, was attending college in Ohio when his world fell apart. A swarm of huge meteors fell all over the world, on Europe, on the United States, and in particular on Steven's home town in California. In an instant, his family and all his friends were gone. Suffering fits of deep depression, he dropped out of college and ended up working as a repairman in a video games store, where he did an brilliant job of repairing a 30-year-old video game. That caught the attention of the game's owner in, who happened to be in a position to get Steven a government job, cracking computer codes, and reverse engineering unusual hardware. When he was given a tiny piece of hardware to examine as a "test," he worked out its functions so well that he and his boss were called to Washington for a top secret meeting. They asked him countless questions, yet declined to answer his; but he would soon learn all the answers. The "meteor" onslaught that had orphaned him had actually been a brief and still secret war between the U.S and its enemies (as told in Warp Speed) using a new warp drive technology that was more secret than top secret. Another secret was that U.S. had been sending faster-than-light ships to other star systems. Most secret of all was that unfriendly aliens were observing the Earth, and while U.S. spaceships were not quite in a war with the unknown aliens, they were shooting at the intruders. Whether any of these answers would do Steven any good was an open question because he learned them only after his was abducted by those very same aliens and was held prisoner on one of their ships orbiting Saturn. At first, he was one of three human prisoners, but he had just seen the aliens completely dissect one of the three, and it looked like either Steven, or the Russian girl who was his fellow prisoner, were scheduled to be the next alien lab experiment. . . .</dc:description>
+        <dc:publisher>Baen</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743498968</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Warp Speed" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2005-04-01T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Quantum Connection, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

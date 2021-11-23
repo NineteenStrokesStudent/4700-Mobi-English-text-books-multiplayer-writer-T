@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2960</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25ca1ca5-63ee-454e-9bbc-76efb78596b9</dc:identifier>
+        <dc:title>Tyler Florence's Real Kitchen: An Indespensible Guide for Anybody who Likes to Cook</dc:title>
+        <dc:creator opf:file-as="Florence, Tyler" opf:role="aut">Tyler Florence</dc:creator>
+        <dc:creator opf:file-as="Florence, Tyler" opf:role="aut">JoAnn Cianciulli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-25T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Bold. Unfussy. Irresistible. Real. That’s the kind of food that comes out of Tyler Florence’s kitchen. With a culinary sensibility refined in some of New York’s most high-profile restaurants, and a down-home practicality gained as the cooking guru of Food 911, Tyler cooks food that’s fresh, flavorful, and totally doable. In Tyler Florence’s Real Kitchen, he’ll show you how to cook simple meals that taste amazing, from comfort-food to classics to vibrantly new dishes.Tyler’s long-awaited first cookbook stays true to his cooking philosophy—use great, simple ingredients and then let the natural flavors speak for themselves. He offers can’t-miss recipes for all the crowd-pleasing dishes that you crave—cold fried chicken, a perfect meatloaf, or drop-dead lasagna. Tyler’s bold, uncomplicated style even makes sophisticated food easy, with recipes like Pan-Roasted Sirloin with Arugula, Sweet Peppers, and Olive Salad or Steamed Mussels with Saffron and Tomato. He’ll show you how to get a great meal from the grocery bag to the table with the least fuss and the most flavor, or how to throw a barbecue with the best burgers (spiced up with horseradish and Havarti cheese) that your friends have ever had. From weekend brunch (including Soft Scrambled Eggs with Salmon and Avocado and an assortment of dim sum) to quick weeknight dinners for two (like Hong Kong Crab Cakes with Baby Bok Choy), and a selection of great party food and cocktails, this is a cookbook you’ll use again and again and rely on for every occasion.With helpful notes on essential pantry staples and a list of the kitchen equipment you really need, Tyler Florence’s Real Kitchen is a fresh, creative exploration of just how fun (and delicious) your cooking can be.</dc:description>
+        <dc:publisher>Clarkson Potter/Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780609609972</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-01T06:27:23.971000+00:00" name="calibre:timestamp"/>
+        <meta content="Tyler Florence's Real Kitchen: An Indespensible Guide for Anybody who Likes to Cook" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
